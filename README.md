@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Alex+nice+to+see+you!)](https://git.io/typing-svg)
 
-I'm a May 2024 graduate in electrical and computer engineering from Wayne State University. I've been programming for a 3 years now, and enjoy taking on new projects!
+Georgia Institute of Technology Graduate Student pursuing a M.S. Computer Science with a specilization in Computing Systems.
+May 2024 graduate in electrical and computer engineering from Wayne State University. I've been programming for a 3 years now, and enjoy taking on new projects!
 
 
 * ✈️ [GE Aerospace, Software Engineer](https://www.geaerospace.com/)
